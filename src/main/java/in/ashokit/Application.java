@@ -11,6 +11,8 @@ int i=20;
 
 		SpringApplication.run(Application.class, args);
 int j=20;
+systsem.out.println(i);
+system.out.println(j);
 	}
 
 }
